@@ -1,11 +1,7 @@
-language: go
+language: python
 
 go:
-  - 1.2
+  - 2.7
+  - 3.4
 
-install:
-  - export PATH=$PATH:$HOME/gopath/bin
-  - go get code.google.com/p/go.tools/cmd/cover
-
-script:
-  - go test -cover
+script: nose 

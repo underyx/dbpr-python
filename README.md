@@ -1,21 +1,15 @@
 # Dotabuff Pro Rating Algorithm
 
-![Build Status](https://travis-ci.org/dotabuff/dbpr.svg)
+![Build Status](https://travis-ci.org/underyx/dbpr.svg)
 
-This repository contains the full source to the Dotabuff Pro Rating Algorithm
-(DBPR) in Go.
+This repository contains a Python implementation of the Dotabuff Pro Rating Algorithm (DBPR).
 
 ## Running
 
-`go run dbpr.go`
-
-## Other Languages
-
-Please let us know if you implement DBPR in another language, we'll link it from
-here!
+`python dbpr.py`
 
 ## License
 
 MIT License. See LICENSE for details.
 
-Copyright 2014 Dotabuff
+Copyright 2014 Dotabuff, Underyx

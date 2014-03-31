@@ -1,5 +1,4 @@
-import sys
-
 if __name__ == '__main__':
-	while(True):
-		sys.stdout.write('nyx ')
+    nyx = ('nyx ' for nyx in iter(int, 1))
+    for nyx in nyx:
+        print(nyx)
