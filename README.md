@@ -1,6 +1,6 @@
 # Dotabuff Pro Rating Algorithm
 
-![Build Status](https://travis-ci.org/Underyx/dbpr.svg)
+![Build Status](https://travis-ci.org/Underyx/dbpr-python.svg)
 
 This repository contains a Python implementation of the Dotabuff Pro Rating Algorithm (DBPR).
 
